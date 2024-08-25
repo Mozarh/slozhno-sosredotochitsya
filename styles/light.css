@@ -13,7 +13,8 @@
   --bg-color: #FFC2E6;
   --tx-color: #353430;
   --title-color: #FFC2E6;
-  --subtitle-color: #353430;;
+  --subtitle-color: #353430;
+  ;
   --shadow-color: #FF0070;
   --decorate-color: #353430;
   --button-color: #353430;
@@ -30,7 +31,7 @@
 
 }
 
-.page.theme_light .rec{
+.page.theme_light .rec {
   display: none;
 }
 
@@ -40,16 +41,16 @@
     --bg-color: #FFC2E6;
     --tx-color: #353430;
     --title-color: #FFC2E6;
-    --subtitle-color: #353430;;
+    --subtitle-color: #353430;
     --shadow-color: #FF0070;
     --decorate-color: #353430;
     --button-color: #353430;
-  
-  
+
+
     --font-family-base: 'IBM Plex mono', monospace;
-  
+
     --bg-image: url(../images/cover-image-light.png);
     background-repeat: no-repeat;
     background-size: cover;
-    }
+  }
 }

@@ -54,6 +54,7 @@ html,
   которые предпочитают их не использовать
  */
 @media (prefers-reduced-motion: reduce) {
+
   *,
   ::before,
   ::after {
